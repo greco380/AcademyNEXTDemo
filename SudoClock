@@ -1,0 +1,19 @@
+public class SudoClock {
+	public static void main () {
+
+			//Math.sin(2*Math.PI)
+		int sec = 0;
+		int secTheta = (Math.PI/2) - sec * Math.PI/30;
+		int min = 0;
+		int minT = Math.PI/2) - min * Math.PI/30;
+
+		while(true) {
+	
+			
+			
+			
+			
+			
+
+	}
+}
